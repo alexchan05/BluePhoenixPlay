@@ -55,7 +55,7 @@ const config = {
   //----------------------------------------------------------------
   // Your social handle links
   githubLink: "https://github.com/alexchan05",
-  twitterLink: "https://twitter.com",
+  twitterLink: "https://twitter.com/Xiao_en1105",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
   discordLink: "https://discord.gg/xzn9M2Rehf",
